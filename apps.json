@@ -1,5 +1,10 @@
 [
 	{
+		"name": "jQuery Mobile",
+		"description": "A basic app using jQuery mobile",
+		"url": "https://github.com/trigger-corp/forge-template-jquery-mobile/zipball/master"
+	},
+	{
 		"name": "OAuth2",
 		"description": "A simple OAuth2 login example.",
 		"url": "https://github.com/trigger-corp/forge-template-oauth2/zipball/master"
