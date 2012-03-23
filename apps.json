@@ -3,5 +3,10 @@
 		"name": "OAuth2",
 		"description": "A simple OAuth2 login example.",
 		"url": "https://github.com/trigger-corp/forge-template-oauth2/zipball/master"
+	},
+	{
+		"name": "Facebook login",
+		"description": "Simple Facebook authentication example.",
+		"url": "https://github.com/trigger-corp/forge-template-facebook-login/zipball/master"
 	}
 ]
