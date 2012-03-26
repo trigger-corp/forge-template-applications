@@ -1,8 +1,8 @@
 [
 	{
-		"name": "jQuery Mobile",
-		"description": "A basic app using jQuery mobile",
-		"url": "https://github.com/trigger-corp/forge-template-jquery-mobile/zipball/master"
+		"name": "Sench Touch Kitchen Sink",
+		"description": "Kitchen Sink Sencha Touch demo app.",
+		"url": "https://github.com/trigger-corp/forge-template-sencha-touch/zipball/master"
 	},
 	{
 		"name": "OAuth2",
