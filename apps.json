@@ -1,5 +1,10 @@
 [
 	{
+		"name": "Browser content script",
+		"description": "A template Forge app which shows how the platform can be used to make a browser extension; in this case, an extension which lets you change the background colour of web pages.",
+		"url": "https://github.com/trigger-corp/forge-template-browser-content-script/zipball/master"
+	},
+	{
 		"name": "Sench Touch Kitchen Sink",
 		"description": "Kitchen Sink Sencha Touch demo app.",
 		"url": "https://github.com/trigger-corp/forge-template-sencha-touch/zipball/master"
